@@ -32,15 +32,18 @@ def run_python(args, *, cwd=None, env=None):
 
 def build_wheel(dist_dir):
     shutil.rmtree(REPO_ROOT / "build", ignore_errors=True)
+    shutil.rmtree(dist_dir, ignore_errors=True)
     return subprocess.run(
         [
             sys.executable,
             "-m",
-            "build",
-            "--wheel",
-            "--no-isolation",
-            "--outdir",
+            "pip",
+            "wheel",
+            "--no-deps",
+            "--no-build-isolation",
+            "--wheel-dir",
             str(dist_dir),
+            ".",
         ],
         cwd=REPO_ROOT,
         capture_output=True,

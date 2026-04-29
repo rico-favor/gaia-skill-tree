@@ -13,6 +13,8 @@ const packageRoot = resolve(__dirname, '../..');
 const repoRoot = resolve(packageRoot, '..');
 const packagedPythonCliPath = resolve(packageRoot, 'cli/main.py');
 const repoPythonCliPath = resolve(repoRoot, 'plugin/cli/main.py');
+const packagedSrcRoot = resolve(packageRoot, 'python');
+const repoSrcRoot = resolve(repoRoot, 'src');
 const pythonCliPath = existsSync(packagedPythonCliPath)
   ? packagedPythonCliPath
   : repoPythonCliPath;
@@ -54,7 +56,9 @@ try {
 // Prepare environment variables
 const env = {
   ...process.env,
-  PYTHONPATH: [repoRoot, packageRoot, process.env.PYTHONPATH].filter(Boolean).join(':'),
+  PYTHONPATH: [packagedSrcRoot, repoSrcRoot, repoRoot, packageRoot, process.env.PYTHONPATH]
+    .filter(Boolean)
+    .join(process.platform === 'win32' ? ';' : ':'),
 };
 
 // Spawn Python process with forwarded arguments (no shell for security)
