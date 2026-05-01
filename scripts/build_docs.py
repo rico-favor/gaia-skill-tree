@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import os
 import re
 import argparse
 import json
@@ -38,7 +39,18 @@ def _strip_ansi(text):
 
 def _cli_help() -> str:
     parser, _ = get_parser()
-    help_text = _strip_ansi(parser.format_help())
+    # Pin COLUMNS so argparse wraps at a fixed width in all environments.
+    # CI runners have no TTY and default to 80 cols; a local wide terminal
+    # produces unwrapped lines. 200 is wide enough that no option line wraps.
+    _old_cols = os.environ.get("COLUMNS")
+    os.environ["COLUMNS"] = "200"
+    try:
+        help_text = _strip_ansi(parser.format_help())
+    finally:
+        if _old_cols is None:
+            os.environ.pop("COLUMNS", None)
+        else:
+            os.environ["COLUMNS"] = _old_cols
     return f"```text\n{help_text}\n```"
 
 
