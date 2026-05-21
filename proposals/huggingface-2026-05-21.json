@@ -1,0 +1,4552 @@
+[
+  {
+    "id": "generate-text-hf-qwen3-06b",
+    "name": "Qwen3-0.6B (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Qwen/Qwen3-0.6B",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-gpt2",
+    "name": "gpt2 (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/openai-community/gpt2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-qwen25-15b-instruct",
+    "name": "Qwen2.5-1.5B-Instruct (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 68/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-qwen25-7b-instruct",
+    "name": "Qwen2.5-7B-Instruct (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-qwen3-8b",
+    "name": "Qwen3-8B (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Qwen/Qwen3-8B",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-llama-31-8b-instruct",
+    "name": "Llama-3.1-8B-Instruct (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-opt-125m",
+    "name": "opt-125m (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/facebook/opt-125m",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 65/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-qwen25-3b-instruct",
+    "name": "Qwen2.5-3B-Instruct (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 67/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-qwen3-4b",
+    "name": "Qwen3-4B (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Qwen/Qwen3-4B",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 68/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-llama-32-1b-instruct",
+    "name": "Llama-3.2-1B-Instruct (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-gpt-oss-20b",
+    "name": "gpt-oss-20b (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/openai/gpt-oss-20b",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-qwen3-32b",
+    "name": "Qwen3-32B (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Qwen/Qwen3-32B",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 68/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-qwen3-4b-instruct-2507",
+    "name": "Qwen3-4B-Instruct-2507 (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 69/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-tiny-qwen2forcausallm-25",
+    "name": "tiny-Qwen2ForCausalLM-2.5 (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 55/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-gpt-oss-120b",
+    "name": "gpt-oss-120b (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/openai/gpt-oss-120b",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-qwen25-05b-instruct",
+    "name": "Qwen2.5-0.5B-Instruct (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 68/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-dolphin-291-yi-15-34b",
+    "name": "dolphin-2.9.1-yi-1.5-34b (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/dphn/dolphin-2.9.1-yi-1.5-34b",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 61/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-qwen2-15b-instruct",
+    "name": "Qwen2-1.5B-Instruct (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Qwen/Qwen2-1.5B-Instruct",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 64/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-deepseek-v32",
+    "name": "DeepSeek-V3.2 (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "generate-text-hf-deepseek-r1",
+    "name": "DeepSeek-R1 (text-generation)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-generation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-bart-large-cnn",
+    "name": "bart-large-cnn (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/facebook/bart-large-cnn",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-distilbart-cnn-12-6",
+    "name": "distilbart-cnn-12-6 (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/sshleifer/distilbart-cnn-12-6",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-rut5baseheadlinegentelegram",
+    "name": "rut5_base_headline_gen_telegram (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/IlyaGusev/rut5_base_headline_gen_telegram",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 56/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-bart-large-cnn-samsum",
+    "name": "bart-large-cnn-samsum (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/philschmid/bart-large-cnn-samsum",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-pegasus-xsum",
+    "name": "pegasus-xsum (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/google/pegasus-xsum",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 65/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-financial-summarization-pegasu",
+    "name": "financial-summarization-pegasus (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/human-centered-summarization/financial-summarization-pegasus",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 64/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-kobart-summary-v3",
+    "name": "kobart-summary-v3 (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/EbanLee/kobart-summary-v3",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 58/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-meetingsummary",
+    "name": "MEETING_SUMMARY (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/knkarthick/MEETING_SUMMARY",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 65/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-distilbart-cnn-6-6",
+    "name": "distilbart-cnn-6-6 (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/sshleifer/distilbart-cnn-6-6",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 60/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-mt5multilingualxlsum",
+    "name": "mT5_multilingual_XLSum (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/csebuetnlp/mT5_multilingual_XLSum",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-fred-t5-summarizer",
+    "name": "FRED-T5-Summarizer (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/RussianNLP/FRED-T5-Summarizer",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 59/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-t5-small-booksum",
+    "name": "t5-small-booksum (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/cnicu/t5-small-booksum",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 56/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-bart-large-xsum",
+    "name": "bart-large-xsum (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/facebook/bart-large-xsum",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 60/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-textsummarization",
+    "name": "text_summarization (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Falconsai/text_summarization",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-distilbart-xsum-12-6",
+    "name": "distilbart-xsum-12-6 (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/sshleifer/distilbart-xsum-12-6",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 55/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-rut5-base-summ",
+    "name": "rut5-base-summ (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/d0rj/rut5-base-summ",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 59/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-t5-base-indonesian-summarizati",
+    "name": "t5-base-indonesian-summarization-cased (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/cahya/t5-base-indonesian-summarization-cased",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 54/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-greek-text-summarization",
+    "name": "greek-text-summarization (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/kriton/greek-text-summarization",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 54/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "summarize-hf-pegasus-cnndailymail",
+    "name": "pegasus-cnn_dailymail (summarization)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for summarization",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/google/pegasus-cnn_dailymail",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 62/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-bert-base-ner",
+    "name": "bert-base-NER (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/dslim/bert-base-NER",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 68/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-stanford-deidentifier-base",
+    "name": "stanford-deidentifier-base (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/StanfordAIMI/stanford-deidentifier-base",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 62/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-wikineural-multilingual-ner",
+    "name": "wikineural-multilingual-ner (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Babelscape/wikineural-multilingual-ner",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 64/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-bert-large-cased-finetuned-con",
+    "name": "bert-large-cased-finetuned-conll03-english (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/dbmdz/bert-large-cased-finetuned-conll03-english",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 63/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-finetuned-bertweet-poskd3",
+    "name": "finetuned-bertweet-poskd3 (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/GozdeA/finetuned-bertweet-poskd3",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 50/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-fullstop-punctuation-multilang",
+    "name": "fullstop-punctuation-multilang-large (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/oliverguhr/fullstop-punctuation-multilang-large",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 64/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-xlm-roberta-large-ner-hrl",
+    "name": "xlm-roberta-large-ner-hrl (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Davlan/xlm-roberta-large-ner-hrl",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 57/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-punctuate-all",
+    "name": "punctuate-all (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/kredor/punctuate-all",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 59/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-ner-english-fast",
+    "name": "ner-english-fast (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/flair/ner-english-fast",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 59/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-llmlingua-2-xlm-roberta-large-",
+    "name": "llmlingua-2-xlm-roberta-large-meetingbank (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/microsoft/llmlingua-2-xlm-roberta-large-meetingbank",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 59/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-deidrobertai2b2",
+    "name": "deid_roberta_i2b2 (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/obi/deid_roberta_i2b2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 60/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-sat-3l-sm",
+    "name": "sat-3l-sm (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/segment-any-text/sat-3l-sm",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 57/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-bert-base-ner-russian",
+    "name": "bert-base-NER-Russian (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Gherman/bert-base-NER-Russian",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 58/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-privacy-filter",
+    "name": "privacy-filter (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/openai/privacy-filter",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-bert-base-multilingual-cased-n",
+    "name": "bert-base-multilingual-cased-ner-hrl (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Davlan/bert-base-multilingual-cased-ner-hrl",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 62/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-bert-portuguese-ner",
+    "name": "bert-portuguese-ner (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/lfcc/bert-portuguese-ner",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 56/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-span-marker-bert-base-uncased-",
+    "name": "span-marker-bert-base-uncased-acronyms (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/tomaarsen/span-marker-bert-base-uncased-acronyms",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 55/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-llmlingua-2-bert-base-multilin",
+    "name": "llmlingua-2-bert-base-multilingual-cased-meetingbank (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/microsoft/llmlingua-2-bert-base-multilingual-cased-meetingbank",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 61/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-french-camembert-postag-model",
+    "name": "french-camembert-postag-model (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/gilf/french-camembert-postag-model",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 56/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "extract-entities-hf-openmed-ner-pharmadetect-super",
+    "name": "OpenMed-NER-PharmaDetect-SuperClinical-434M (token-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for token-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/OpenMed/OpenMed-NER-PharmaDetect-SuperClinical-434M",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 59/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-bge-reranker-v2-m3",
+    "name": "bge-reranker-v2-m3 (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 69/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-finbert",
+    "name": "finbert (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/ProsusAI/finbert",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-bge-reranker-base",
+    "name": "bge-reranker-base (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/BAAI/bge-reranker-base",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 65/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-twitter-roberta-base-sentiment",
+    "name": "twitter-roberta-base-sentiment-latest (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 69/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-distilbert-base-uncased-finetu",
+    "name": "distilbert-base-uncased-finetuned-sst-2-english (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 69/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-koelectra-small-v3-nsmc",
+    "name": "koelectra-small-v3-nsmc (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/daekeun-ml/koelectra-small-v3-nsmc",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 55/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-twitter-xlm-roberta-base-senti",
+    "name": "twitter-xlm-roberta-base-sentiment (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-radar-vicuna-7b",
+    "name": "RADAR-Vicuna-7B (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/TrustSafeAI/RADAR-Vicuna-7B",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 56/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-prompt-guard-86m",
+    "name": "Prompt-Guard-86M (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/meta-llama/Prompt-Guard-86M",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-bert-base-multilingual-uncased",
+    "name": "bert-base-multilingual-uncased-sentiment (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 67/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-tiny-qwen2forsequenceclassific",
+    "name": "tiny-Qwen2ForSequenceClassification-2.5 (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/trl-internal-testing/tiny-Qwen2ForSequenceClassification-2.5",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 50/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-emotion-english-distilroberta-",
+    "name": "emotion-english-distilroberta-base (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/j-hartmann/emotion-english-distilroberta-base",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 67/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-robertatoxicityclassifier",
+    "name": "roberta_toxicity_classifier (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/s-nlp/roberta_toxicity_classifier",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 62/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-finbert-tone",
+    "name": "finbert-tone (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/yiyanghkust/finbert-tone",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 65/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-distilbert-base-multilingual-c",
+    "name": "distilbert-base-multilingual-cased-sentiments-student (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/lxyuan/distilbert-base-multilingual-cased-sentiments-student",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-deberta-xlarge-mnli",
+    "name": "deberta-xlarge-mnli (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/microsoft/deberta-xlarge-mnli",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 59/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-robertuito-sentiment-analysis",
+    "name": "robertuito-sentiment-analysis (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/pysentimiento/robertuito-sentiment-analysis",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 63/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-xlm-roberta-base-language-dete",
+    "name": "xlm-roberta-base-language-detection (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/papluca/xlm-roberta-base-language-detection",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 67/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-turn-detector",
+    "name": "turn-detector (text-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for text-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/livekit/turn-detector",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 63/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-electralargediscriminatorsquad",
+    "name": "electra_large_discriminator_squad2_512 (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/ahotrod/electra_large_discriminator_squad2_512",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 55/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-roberta-base-squad2",
+    "name": "roberta-base-squad2 (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/deepset/roberta-base-squad2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 69/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-distilbert-base-cased-distille",
+    "name": "distilbert-base-cased-distilled-squad (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/distilbert/distilbert-base-cased-distilled-squad",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-bert-large-uncased-whole-word-",
+    "name": "bert-large-uncased-whole-word-masking-squad2 (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/deepset/bert-large-uncased-whole-word-masking-squad2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 59/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-koelectra-small-v2-distilled-k",
+    "name": "koelectra-small-v2-distilled-korquad-384 (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/monologg/koelectra-small-v2-distilled-korquad-384",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 55/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-mdeberta-v3-base-squad2",
+    "name": "mdeberta-v3-base-squad2 (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/timpal0l/mdeberta-v3-base-squad2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-xlm-roberta-large-squad2",
+    "name": "xlm-roberta-large-squad2 (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/deepset/xlm-roberta-large-squad2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 61/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-tinyroberta-squad2",
+    "name": "tinyroberta-squad2 (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/deepset/tinyroberta-squad2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 63/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-splinter-base",
+    "name": "splinter-base (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/tau/splinter-base",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 50/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-roberta-large-squad2",
+    "name": "roberta-large-squad2 (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/deepset/roberta-large-squad2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 59/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-bert-base-cased-squad2",
+    "name": "bert-base-cased-squad2 (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/deepset/bert-base-cased-squad2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 58/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-distilbert-base-uncased-distil",
+    "name": "distilbert-base-uncased-distilled-squad (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/distilbert/distilbert-base-uncased-distilled-squad",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 63/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-koelectra-base-v3-finetuned-ko",
+    "name": "koelectra-base-v3-finetuned-korquad (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/monologg/koelectra-base-v3-finetuned-korquad",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 55/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-minilm-uncased-squad2",
+    "name": "minilm-uncased-squad2 (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/deepset/minilm-uncased-squad2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 61/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-bert-large-cased-whole-word-ma",
+    "name": "bert-large-cased-whole-word-masking-finetuned-squad (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/google-bert/bert-large-cased-whole-word-masking-finetuned-squad",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 50/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-distilbert-onnx",
+    "name": "distilbert-onnx (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/philschmid/distilbert-onnx",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 53/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-mobilebert-uncased-squad-v2",
+    "name": "mobilebert-uncased-squad-v2 (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/csarron/mobilebert-uncased-squad-v2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 56/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-deberta-v3-large-squad2",
+    "name": "deberta-v3-large-squad2 (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/deepset/deberta-v3-large-squad2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 61/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "retrieve-hf-bert-medium-squad2-distilled",
+    "name": "bert-medium-squad2-distilled (question-answering)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for question-answering",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/deepset/bert-medium-squad2-distilled",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 54/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-bge-small-en-v15",
+    "name": "bge-small-en-v1.5 (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/BAAI/bge-small-en-v1.5",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 67/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-bge-large-en-v15",
+    "name": "bge-large-en-v1.5 (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/BAAI/bge-large-en-v1.5",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 68/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-bge-base-en-v15",
+    "name": "bge-base-en-v1.5 (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/BAAI/bge-base-en-v1.5",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 67/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-multilingual-e5-large",
+    "name": "multilingual-e5-large (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/intfloat/multilingual-e5-large",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-qwen3-embedding-06b",
+    "name": "Qwen3-Embedding-0.6B (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-mxbai-embed-large-v1",
+    "name": "mxbai-embed-large-v1 (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 69/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-all-minilm-l6-v2",
+    "name": "all-MiniLM-L6-v2 (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Xenova/all-MiniLM-L6-v2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 63/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-multilingual-e5-small",
+    "name": "multilingual-e5-small (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Xenova/multilingual-e5-small",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 56/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-jina-embeddings-v3",
+    "name": "jina-embeddings-v3 (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/jinaai/jina-embeddings-v3",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-w2v-bert-20",
+    "name": "w2v-bert-2.0 (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/facebook/w2v-bert-2.0",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 65/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-bge-small-zh-v15",
+    "name": "bge-small-zh-v1.5 (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/BAAI/bge-small-zh-v1.5",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 63/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-qwen3-embedding-4b",
+    "name": "Qwen3-Embedding-4B (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Qwen/Qwen3-Embedding-4B",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-mimi",
+    "name": "mimi (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/kyutai/mimi",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-sapbert-from-pubmedbert-fullte",
+    "name": "SapBERT-from-PubMedBERT-fulltext (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 62/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-qwen3-embedding-8b",
+    "name": "Qwen3-Embedding-8B (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Qwen/Qwen3-Embedding-8B",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 68/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-bge-reranker-large",
+    "name": "bge-reranker-large (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/BAAI/bge-reranker-large",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 67/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-uae-large-v1",
+    "name": "UAE-Large-V1 (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/WhereIsAI/UAE-Large-V1",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 65/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-1",
+    "name": "1 (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/unslothai/1",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 50/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "embed-text-hf-multilingual-e5-large-instruct",
+    "name": "multilingual-e5-large-instruct (feature-extraction)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for feature-extraction",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/intfloat/multilingual-e5-large-instruct",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 68/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-bert-base-uncased",
+    "name": "bert-base-uncased (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/google-bert/bert-base-uncased",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-xlm-roberta-base",
+    "name": "xlm-roberta-base (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/FacebookAI/xlm-roberta-base",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 69/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-roberta-large",
+    "name": "roberta-large (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/FacebookAI/roberta-large",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-roberta-base",
+    "name": "roberta-base (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/FacebookAI/roberta-base",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 68/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-distilbert-base-uncased",
+    "name": "distilbert-base-uncased (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/distilbert/distilbert-base-uncased",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 69/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-xlm-roberta-large",
+    "name": "xlm-roberta-large (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/FacebookAI/xlm-roberta-large",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 68/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-bert-base-multilingual-cased",
+    "name": "bert-base-multilingual-cased (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/google-bert/bert-base-multilingual-cased",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 68/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-bert-base-cased",
+    "name": "bert-base-cased (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/google-bert/bert-base-cased",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-bert-base-multilingual-uncased",
+    "name": "bert-base-multilingual-uncased (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/google-bert/bert-base-multilingual-uncased",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 64/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-deberta-v3-base",
+    "name": "deberta-v3-base (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/microsoft/deberta-v3-base",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 67/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-bert-large-portuguese-cased",
+    "name": "bert-large-portuguese-cased (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/neuralmind/bert-large-portuguese-cased",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 62/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-biomednlp-biomedbert-base-unca",
+    "name": "BiomedNLP-BiomedBERT-base-uncased-abstract (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 63/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-bioclinicalbert",
+    "name": "Bio_ClinicalBERT (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 67/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-esm2t33650mur50d",
+    "name": "esm2_t33_650M_UR50D (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/facebook/esm2_t33_650M_UR50D",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 62/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-modernbert-base",
+    "name": "ModernBERT-base (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/answerdotai/ModernBERT-base",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-mdeberta-v3-base",
+    "name": "mdeberta-v3-base (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/microsoft/mdeberta-v3-base",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 65/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-distilroberta-base",
+    "name": "distilroberta-base (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/distilbert/distilroberta-base",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 64/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-esm2t68mur50d",
+    "name": "esm2_t6_8M_UR50D (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/facebook/esm2_t6_8M_UR50D",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 60/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-distilbert-base-multilingual-c",
+    "name": "distilbert-base-multilingual-cased (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/distilbert/distilbert-base-multilingual-cased",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 65/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "tokenize-hf-bert-large-uncased",
+    "name": "bert-large-uncased (fill-mask)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for fill-mask",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/google-bert/bert-large-uncased",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 64/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-all-minilm-l6-v2",
+    "name": "all-MiniLM-L6-v2 (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-paraphrase-multilingual-minilm",
+    "name": "paraphrase-multilingual-MiniLM-L12-v2 (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-all-mpnet-base-v2",
+    "name": "all-mpnet-base-v2 (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-bge-m3",
+    "name": "bge-m3 (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/BAAI/bge-m3",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-nomic-embed-text-v15",
+    "name": "nomic-embed-text-v1.5 (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 69/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-multilingual-e5-small",
+    "name": "multilingual-e5-small (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/intfloat/multilingual-e5-small",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-paraphrase-multilingual-mpnet-",
+    "name": "paraphrase-multilingual-mpnet-base-v2 (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 67/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-nomic-embed-text-v1",
+    "name": "nomic-embed-text-v1 (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/nomic-ai/nomic-embed-text-v1",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 68/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-multilingual-e5-base",
+    "name": "multilingual-e5-base (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/intfloat/multilingual-e5-base",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-finance-embeddings-investopedi",
+    "name": "finance-embeddings-investopedia (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/FinLang/finance-embeddings-investopedia",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 62/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-paraphrase-minilm-l6-v2",
+    "name": "paraphrase-MiniLM-L6-v2 (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 64/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-all-minilm-l12-v2",
+    "name": "all-MiniLM-L12-v2 (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/sentence-transformers/all-MiniLM-L12-v2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-multi-qa-mpnet-base-dot-v1",
+    "name": "multi-qa-mpnet-base-dot-v1 (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-dot-v1",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 65/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-e5-large",
+    "name": "e5-large (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/intfloat/e5-large",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 62/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-all-distilroberta-v1",
+    "name": "all-distilroberta-v1 (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/sentence-transformers/all-distilroberta-v1",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 60/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-e5-base-v2",
+    "name": "e5-base-v2 (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/intfloat/e5-base-v2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 64/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-embeddinggemma-300m",
+    "name": "embeddinggemma-300m (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/google/embeddinggemma-300m",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-paraphrase-mpnet-base-v2",
+    "name": "paraphrase-mpnet-base-v2 (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/sentence-transformers/paraphrase-mpnet-base-v2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 61/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-e5-large-v2",
+    "name": "e5-large-v2 (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/intfloat/e5-large-v2",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "score-relevance-hf-qwen3-vl-embedding-2b",
+    "name": "Qwen3-VL-Embedding-2B (sentence-similarity)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for sentence-similarity",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/Qwen/Qwen3-VL-Embedding-2B",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 67/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-bart-large-mnli",
+    "name": "bart-large-mnli (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/facebook/bart-large-mnli",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 70/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-nli-deberta-v3-small",
+    "name": "nli-deberta-v3-small (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/cross-encoder/nli-deberta-v3-small",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 57/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-mdeberta-v3-base-xnli-multilin",
+    "name": "mDeBERTa-v3-base-xnli-multilingual-nli-2mil7 (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 67/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-nli-deberta-v3-base",
+    "name": "nli-deberta-v3-base (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/cross-encoder/nli-deberta-v3-base",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 60/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-nli-minilm2-l6-h768",
+    "name": "nli-MiniLM2-L6-H768 (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/cross-encoder/nli-MiniLM2-L6-H768",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 57/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-mdeberta-v3-base-mnli-xnli",
+    "name": "mDeBERTa-v3-base-mnli-xnli (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-mnli-xnli",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-distilbert-base-uncased-mnli",
+    "name": "distilbert-base-uncased-mnli (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/typeform/distilbert-base-uncased-mnli",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 60/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-deberta-v3-large-mnli-fever-an",
+    "name": "DeBERTa-v3-large-mnli-fever-anli-ling-wanli (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 63/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-deberta-v3-base-zeroshot-v20",
+    "name": "deberta-v3-base-zeroshot-v2.0 (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v2.0",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 57/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-xlm-roberta-large-xnli",
+    "name": "xlm-roberta-large-xnli (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/joeddav/xlm-roberta-large-xnli",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 66/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-deberta-v3-base-mnli-fever-anl",
+    "name": "DeBERTa-v3-base-mnli-fever-anli (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 65/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-nli-deberta-v3-large",
+    "name": "nli-deberta-v3-large (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/cross-encoder/nli-deberta-v3-large",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 60/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-deberta-v3-xsmall-zeroshot-v11",
+    "name": "deberta-v3-xsmall-zeroshot-v1.1-all-33 (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/MoritzLaurer/deberta-v3-xsmall-zeroshot-v1.1-all-33",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 56/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-bart-large-mnli-yahoo-answers",
+    "name": "bart-large-mnli-yahoo-answers (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/joeddav/bart-large-mnli-yahoo-answers",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 57/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-distilbart-mnli-12-1",
+    "name": "distilbart-mnli-12-1 (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/valhalla/distilbart-mnli-12-1",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 61/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-bge-m3-zeroshot-v20",
+    "name": "bge-m3-zeroshot-v2.0 (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/MoritzLaurer/bge-m3-zeroshot-v2.0",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 61/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-distilbart-mnli-12-3",
+    "name": "distilbart-mnli-12-3 (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/valhalla/distilbart-mnli-12-3",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 58/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-deberta-v3-large-zeroshot-v20",
+    "name": "deberta-v3-large-zeroshot-v2.0 (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/MoritzLaurer/deberta-v3-large-zeroshot-v2.0",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 63/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  },
+  {
+    "id": "classify-hf-nli-distilroberta-base",
+    "name": "nli-distilroberta-base (zero-shot-classification)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "HuggingFace model for zero-shot-classification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://huggingface.co/cross-encoder/nli-distilroberta-base",
+        "evaluator": "gaiabot",
+        "date": "2026-05-21",
+        "notes": "Auto-discovered from huggingface. Evidence score: 59/100.",
+        "source_type": "huggingface"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-21",
+    "updatedAt": "2026-05-21",
+    "version": "0.1.0"
+  }
+]
