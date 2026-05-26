@@ -1,0 +1,834 @@
+[
+  {
+    "id": "mcp-server",
+    "name": "mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "mcp server",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 34/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "upstashcontext7-mcp",
+    "name": "@upstash/context7-mcp",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP server for Context7",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@upstash/context7-mcp",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 70/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "apifyactors-mcp-server",
+    "name": "@apify/actors-mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Apify MCP Server",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@apify/actors-mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 70/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "notionhqnotion-mcp-server",
+    "name": "@notionhq/notion-mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Official MCP server for Notion API",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@notionhq/notion-mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 66/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "sentrymcp-server",
+    "name": "@sentry/mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Sentry MCP Server",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@sentry/mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 70/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "chrome-devtools-mcp",
+    "name": "chrome-devtools-mcp",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP server for Chrome DevTools",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/chrome-devtools-mcp",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 70/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "hubspotmcp-server",
+    "name": "@hubspot/mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP Server for developers building HubSpot Apps",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@hubspot/mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 51/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ui5mcp-server",
+    "name": "@ui5/mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP server for SAPUI5/OpenUI5 development",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@ui5/mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 69/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "sap-uxfiori-mcp-server",
+    "name": "@sap-ux/fiori-mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "SAP Fiori - Model Context Protocol (MCP) server",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@sap-ux/fiori-mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 70/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "phantommcp-server",
+    "name": "@phantom/mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP Server for Phantom Wallet",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@phantom/mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 70/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "modelcontextprotocolserver-filesystem",
+    "name": "@modelcontextprotocol/server-filesystem",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP server for filesystem access",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@modelcontextprotocol/server-filesystem",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 63/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "motiffcommotiff-mcp-server",
+    "name": "@motiffcom/motiff-mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP server for motiff",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@motiffcom/motiff-mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 51/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "sigmacomputingslack-mcp-server",
+    "name": "@sigmacomputing/slack-mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP server for interacting with Slack",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@sigmacomputing/slack-mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 62/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "kubernetes-mcp-server",
+    "name": "kubernetes-mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/kubernetes-mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 70/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "mcp-server-kubernetes",
+    "name": "mcp-server-kubernetes",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP server for interacting with Kubernetes clusters via kubectl",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/mcp-server-kubernetes",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 70/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "transcend-iomcp-server-admin",
+    "name": "@transcend-io/mcp-server-admin",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Transcend MCP Server \u2014 Admin tools.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@transcend-io/mcp-server-admin",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 62/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "herokumcp-server",
+    "name": "@heroku/mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Heroku Platform MCP Server",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@heroku/mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 66/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "mapboxmcp-server",
+    "name": "@mapbox/mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Mapbox MCP server.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@mapbox/mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 60/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "winor30mcp-server-datadog",
+    "name": "@winor30/mcp-server-datadog",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP server for interacting with Datadog API",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@winor30/mcp-server-datadog",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 58/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "transcend-iomcp-server-workflows",
+    "name": "@transcend-io/mcp-server-workflows",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Transcend MCP Server \u2014 Workflows tools.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@transcend-io/mcp-server-workflows",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 62/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "dynatrace-ossdynatrace-mcp-server",
+    "name": "@dynatrace-oss/dynatrace-mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Model Context Protocol (MCP) server for Dynatrace",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@dynatrace-oss/dynatrace-mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 70/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "eslintmcp",
+    "name": "@eslint/mcp",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP server for ESLint",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@eslint/mcp",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 70/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "browserstackmcp-server",
+    "name": "@browserstack/mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "BrowserStack's Official MCP Server",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@browserstack/mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 67/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "supabasemcp-server-supabase",
+    "name": "@supabase/mcp-server-supabase",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP server for interacting with Supabase",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@supabase/mcp-server-supabase",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 70/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "roychrimcp-server-asana",
+    "name": "@roychri/mcp-server-asana",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP Server for Asana",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@roychri/mcp-server-asana",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 64/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "coinbasecds-mcp-server",
+    "name": "@coinbase/cds-mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Coinbase Design System - MCP Server",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@coinbase/cds-mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 67/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ivotobyopenapi-mcp-server",
+    "name": "@ivotoby/openapi-mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "An MCP server that exposes OpenAPI endpoints as resources",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@ivotoby/openapi-mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 64/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "transcend-iomcp-server-assessment",
+    "name": "@transcend-io/mcp-server-assessment",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Transcend MCP Server \u2014 Assessments tools.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@transcend-io/mcp-server-assessment",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 62/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "transcend-iomcp-server-dsr",
+    "name": "@transcend-io/mcp-server-dsr",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Transcend MCP Server \u2014 DSR Automation tools.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@transcend-io/mcp-server-dsr",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 62/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "azure-devopsmcp",
+    "name": "@azure-devops/mcp",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP server for interacting with Azure DevOps",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@azure-devops/mcp",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 69/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "agent-desktop",
+    "name": "agent-desktop",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "AI agent tool for observing and controlling desktop applications via native OS accessibility trees",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/agent-desktop",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 58/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  },
+  {
+    "id": "toolplexclient",
+    "name": "@toolplex/client",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "The official ToolPlex client for AI agent tool discovery and execution",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://www.npmjs.com/package/@toolplex/client",
+        "evaluator": "gaiabot",
+        "date": "2026-05-26",
+        "notes": "Auto-discovered from npm. Evidence score: 46/100.",
+        "source_type": "npm"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-26",
+    "updatedAt": "2026-05-26",
+    "version": "0.1.0"
+  }
+]
