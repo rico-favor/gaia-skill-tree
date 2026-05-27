@@ -1,0 +1,808 @@
+[
+  {
+    "id": "windsurf-plugin-formerly-codeium-ai-coding-autocomplete-and-chat",
+    "name": "Windsurf Plugin (formerly Codeium): AI Coding Autocomplete and Chat for Python, JavaScript, TypeScript, and more",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "The modern coding superpower: free AI code acceleration plugin for your favorite languages. Type less. Code more. Ship faster.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Windsurf.codeium",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 51/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ai-quickfix-instantly-fix-problems-with-chatgpt-ai",
+    "name": "AI QuickFix: Instantly fix problems with ChatGPT AI",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Use ChatGPT and GPT-4 AI tools to find one-click 'lightbulb menu' solutions to problems in your code flagged by your editor, linter, and other code quality tools.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Double Technologies Inc.aiquickfix",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 50/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "qodo-ai-code-review",
+    "name": "Qodo: AI Code Review",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Qodo is the AI code review platform that catches bugs early, reduces review noise, and helps maintain code quality across fast-moving, AI-driven development. Qodo\u2019s VSCode plugin enables developers to",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Qodo (formerly Codium).codium",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 70/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "talkx-chatgpt-gpt-4-free-ai-code-assistant",
+    "name": "TalkX - ChatGPT GPT-4 Free AI code assistant",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "TalkX \u901a\u8fc7\u5c06GPT/GPT-4\u96c6\u6210\u5230\u60a8\u7684IDE\uff0c\u514d\u8d39\u5e2e\u52a9\u5f00\u53d1\u4eba\u5458\u5927\u5927\u52a0\u5feb\u4e86\u4ed6\u4eec\u7684\u5de5\u4f5c\u6548\u7387\u3002\u6211\u4eec\u4f7f\u7528OpenAI\u7684\u6a21\u578b\uff0c\u5efa\u7acb\u4e86\u5168\u7403\u52a0\u901f\u7f51\u7edc\uff0c\u62e5\u6709\u66f4\u9ad8\u6743\u9650\u7684OpenAI\u5bc6\u94a5\u3002TalkX \u4f7f\u5b66\u4e60\u7f16\u7a0b\u6280\u672f\u3001\u89e3\u91ca\u548c\u5206\u6790\u4ee3\u7801\u3001\u751f\u6210\u6d4b\u8bd5\u7528\u4f8b\u3001\u6539\u8fdb\u4ee3\u7801\u3001\u68c0\u67e5\u5b89\u5168\u6027\u751a\u81f3\u89e3\u91ca\u9ad8\u7ea7\u6982\u5ff5\u53d8\u5f97\u5bb9\u6613\u3002",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=jianxiyan.talkx",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 50/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "costrict-prev-cline-roocode-with-code-review-ai-coding-agent",
+    "name": "CoStrict (prev. Cline / RooCode with Code Review AI Coding Agent)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "CoStrict (prev. Cline / RooCode with Code Review AI Coding Agent)",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=zgsm-ai.zgsm",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 70/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ai-chat-models",
+    "name": "AI Chat Models",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Extension that provides ZhipuAI, MiniMax, MoonshotAI, DeepSeek, DashScope, StreamLake, Volcengine, Tencent Cloud, Xiaomi MiMo, and Baidu Qianfan model support for GitHub Copilot Chat, plus custom Open",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=VicBilibily.gcmp",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 69/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ai-code-companion",
+    "name": "AI Code Companion",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "This extension enables Engineers, Architects to enhance their productivity by using the power of OpenAI APIs without worrying of their data privacy.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=vikash-bhardwaj.aicodecompanion",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 48/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "codeant-ai-code-review-assistant",
+    "name": "CodeAnt AI - Code Review Assistant",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Enforce Clean Code, Effortlessly",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=CodeAnt AI.codeantai",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 68/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "azure-mcp-server",
+    "name": "Azure MCP Server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Provides Model Context Protocol (MCP) integration and tooling for Azure in Visual Studio Code.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Microsoft.vscode-azure-mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 70/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "power-bi-modeling-mcp-server",
+    "name": "Power BI Modeling MCP Server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "The Power BI Modeling MCP Server, brings Power BI semantic modeling capabilities to your agents.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Microsoft.powerbi-modeling-mcp",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 70/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "copilot-mcp-agent-skills-manager",
+    "name": "Copilot MCP + Agent Skills Manager",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Search, manage, and install Skills and MCP servers for your AI agents.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Automata Labs.copilot-mcp",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 66/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "mcp-ai-server",
+    "name": "MCP AI Server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "41 Roslyn-powered tools with compact output saving 70-90% tokens - AI navigates your codebase faster then ever before. Symbol search, diagnostics, refactoring, full debugger control, build operations.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Ladislav Sopko.mcpserverforvs",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 63/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "github-mcp",
+    "name": ".github + MCP",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Adds a GitHub node to Solution Explorer that displays the contents of your repository's `.github` folder. Quickly access and manage GitHub-specific files like workflows, Copilot instructions, agents, ",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Mads Kristensen.GitHubNode",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 66/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "git-devops-assistant-mcp-powered",
+    "name": "Git DevOps Assistant (MCP Powered)",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "AI-powered Azure DevOps GitHub Copilot chat extension",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Microsoft.ado-productivity-copilot",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 70/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "microsoft-fabric-mcp-server",
+    "name": "Microsoft Fabric MCP Server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Provides Model Context Protocol (MCP) integration and tooling for Fabric in Visual Studio Code.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Microsoft.vscode-fabric-mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 69/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "stata-mcp",
+    "name": "Stata MCP",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Stata MCP Extension for VS Code, Cursor, and Antigravity IDE",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=OpenEcon.ai.stata-mcp",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 69/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "home-assistant-mcp-tools",
+    "name": "Home Assistant MCP Tools",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP Tools for GitHub Copilot to access Home Assistant REST API",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Ricky Kleinhempel.homeassistant-mcp",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 53/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "mcp-server-for-azure-devops",
+    "name": "MCP Server for Azure DevOps",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "MCP server compatible with Azure DevOps / TFS",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=vm3jack.azure-devops-mcp",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 59/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "spec-workflow-mcp",
+    "name": "Spec Workflow MCP",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "VSCode extension for Spec-Workflow-MCP with integrated dashboard",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Pimzino.spec-workflow-mcp",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 62/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "vscode-mcp-server",
+    "name": "vscode-mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "VS Code as a MCP server",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Juehang Qin.vscode-mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 60/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "blackbox-agent-coding-copilot",
+    "name": "Blackbox Agent - Coding Copilot",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=BLACKBOXAI.blackboxagent",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 70/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "codex-openais-coding-agent",
+    "name": "Codex \u2013 OpenAI\u2019s coding agent",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Codex is a coding agent that works with you everywhere you code \u2014 included in ChatGPT Plus, Pro, Business, Edu, and Enterprise plans.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=OpenAI.chatgpt",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 70/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "helix-ai-coding-agent",
+    "name": "Helix - AI coding agent",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=OpenGig.og-helix",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 43/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "zencoder-ai-coding-agent-and-chat-for-python-javascript-typescri",
+    "name": "Zencoder: AI Coding Agent and Chat for Python, Javascript, Typescript, Java, Go, and more",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Embedded AI agents",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Zencoder.zencoder",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 70/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "verdent-for-vs-code-state-of-the-art-ai-coding-agent",
+    "name": "Verdent for VS Code: State-of-the-art AI Coding Agent",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "The leading all-in-one coding agent for top-tier AI models \u2014 integrated, orchestrated, and fully unleashed. Achieved the highest SWE-bench Verified results among real production-level agents, includin",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=VerdentAI.verdent",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 70/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "xline-freee-code-agent-lab",
+    "name": "Xline - Freee Code Agent Lab",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Xline - Code Agent Lab.agent-lab",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 50/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "agent-maestro",
+    "name": "Agent Maestro",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Turn VS Code into your compliant AI playground! With Agent Maestro, spin up Cline or Roo on demand and plug Claude Code or Codex straight in through an OpenAI/Anthropic-compatible API.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Joouis.agent-maestro",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 70/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "jitera-ai-programming-agent",
+    "name": "Jitera: AI Programming Agent",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Jitera automates and accelerates the software development lifecycle with AI",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Jitera.jitera",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 63/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "pi-agent-for-vs-code",
+    "name": "pi Agent for VS Code",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Extension that provides UX & UI for the pi coding agent, integrated into VS Code.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Cem Dervis.vscode-pi",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 61/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "codearts-agent",
+    "name": "CodeArts Agent",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "With CodeArts Agent, writing code feels like a finger snap.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Huawei Cloud.vscode-codebot",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 70/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  },
+  {
+    "id": "droid-factorys-ai-coding-agent",
+    "name": "Droid - Factory's AI Coding Agent",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Factory Droid for VS Code: Enterprise coding agents in your IDE",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "C",
+        "source": "https://marketplace.visualstudio.com/items?itemName=Factory.factory-vscode-extension",
+        "evaluator": "gaiabot",
+        "date": "2026-05-27",
+        "notes": "Auto-discovered from vscode-marketplace. Evidence score: 70/100.",
+        "source_type": "vscode-marketplace"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "version": "0.1.0"
+  }
+]
