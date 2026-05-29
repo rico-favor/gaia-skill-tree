@@ -1,0 +1,2394 @@
+[
+  {
+    "id": "web-scrape-gh-firecrawl",
+    "name": "firecrawl",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/firecrawl/firecrawl",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-scrapy",
+    "name": "scrapy",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/scrapy/scrapy",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-anything-llm",
+    "name": "anything-llm",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/Mintplex-Labs/anything-llm",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-scrapling",
+    "name": "Scrapling",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\ud83d\udd77\ufe0f An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/D4Vinci/Scrapling",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-changedetectionio",
+    "name": "changedetection.io",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/dgtlmoon/changedetection.io",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-scrapegraph-ai",
+    "name": "Scrapegraph-ai",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Python scraper based on AI",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-crawlee",
+    "name": "crawlee",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Crawlee\u2014A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/apify/crawlee",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-cloakbrowser",
+    "name": "CloakBrowser",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/CloakHQ/CloakBrowser",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-douyintiktokdownlo",
+    "name": "Douyin_TikTok_Download_API",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\ud83d\ude80\u300cDouyin_TikTok_Download_API\u300d\u662f\u4e00\u4e2a\u5f00\u7bb1\u5373\u7528\u7684\u9ad8\u6027\u80fd\u5f02\u6b65\u6296\u97f3\u3001\u5feb\u624b\u3001TikTok\u3001Bilibili\u6570\u636e\u722c\u53d6\u5de5\u5177\uff0c\u652f\u6301API\u8c03\u7528\uff0c\u5728\u7ebf\u6279\u91cf\u89e3\u6790\u53ca\u4e0b\u8f7d\u3002",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 78/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-maxun",
+    "name": "maxun",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\ud83d\udd25 The open-source no-code platform for web scraping, crawling, search and AI data extraction \u2022 Turn websites into structured APIs in minutes \ud83d\udd25 ",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/getmaxun/maxun",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-ai-website-cloner-te",
+    "name": "ai-website-cloner-template",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Clone any website with one command using AI coding agents",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/JCodesMore/ai-website-cloner-template",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-skillseekers",
+    "name": "Skill_Seekers",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/yusufkaraaslan/Skill_Seekers",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-seleniumbase",
+    "name": "SeleniumBase",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "APIs for web automation / scraping / testing. CDP Mode makes Chromium stealthy, and supports Playwright. Lots of examples and YouTube tutorials.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/seleniumbase/SeleniumBase",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-pinchtab",
+    "name": "pinchtab",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/pinchtab/pinchtab",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-crawlee-python",
+    "name": "crawlee-python",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Crawlee\u2014A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/apify/crawlee-python",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-helium",
+    "name": "helium",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Lighter web automation with Python",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/mherrmann/helium",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-awesome-web-scraping",
+    "name": "awesome-web-scraping",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "List of libraries, tools and APIs for web scraping and data processing.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/lorien/awesome-web-scraping",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 100/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-autoscraper",
+    "name": "autoscraper",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/alirezamika/autoscraper",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 80/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-rod",
+    "name": "rod",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/go-rod/rod",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-pydoll",
+    "name": "pydoll",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. ",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/autoscrape-labs/pydoll",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-crawlab",
+    "name": "crawlab",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks. \u5206\u5e03\u5f0f\u722c\u866b\u7ba1\u7406\u5e73\u53f0\uff0c\u652f\u6301\u4efb\u4f55\u8bed\u8a00\u548c\u6846\u67b6",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/crawlab-team/crawlab",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 85/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-spider-flow",
+    "name": "spider-flow",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\u65b0\u4e00\u4ee3\u722c\u866b\u5e73\u53f0\uff0c\u4ee5\u56fe\u5f62\u5316\u65b9\u5f0f\u5b9a\u4e49\u722c\u866b\u6d41\u7a0b\uff0c\u4e0d\u5199\u4ee3\u7801\u5373\u53ef\u5b8c\u6210\u722c\u866b\u3002",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/ssssssss-team/spider-flow",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 70/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-omniparse",
+    "name": "omniparse",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Ingest, parse, and optimize any data format \u27a1\ufe0f from documents to multimedia \u27a1\ufe0f for enhanced compatibility with GenAI frameworks",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/adithya-s-k/omniparse",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 81/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-awesome-crawler",
+    "name": "awesome-crawler",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "A collection of awesome web crawler,spider in different languages",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/BruceDone/awesome-crawler",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 70/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-firecrawl-mcp-server",
+    "name": "firecrawl-mcp-server",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\ud83d\udd25 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/firecrawl/firecrawl-mcp-server",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-argus",
+    "name": "Argus",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "The Ultimate Information Gathering Toolkit",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/jasonxtn/Argus",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 81/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-nutch",
+    "name": "nutch",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Apache Nutch is an extensible and scalable web crawler",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/apache/nutch",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-ai-crawler-py",
+    "name": "ai-crawler-py",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Crawl a website starting from a URL, find relevant pages, and extract data \u2013 all guided by your natural language prompt.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/oxylabs/ai-crawler-py",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 69/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-spider",
+    "name": "spider",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Low latency web data collector",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/spider-rs/spider",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 98/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-abot",
+    "name": "abot",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Cross Platform C# web crawler framework built for speed and flexibility. Please star this project! +1.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/sjdirect/abot",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 70/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-pspider",
+    "name": "PSpider",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\u7b80\u5355\u6613\u7528\u7684Python\u722c\u866b\u6846\u67b6\uff0cQQ\u4ea4\u6d41\u7fa4\uff1a597510560",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/xianhu/PSpider",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 70/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-marginaliasearch",
+    "name": "MarginaliaSearch",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Internet search engine for text-oriented websites. Indexing the small, old and weird web. ",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/MarginaliaSearch/MarginaliaSearch",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 85/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-browserless",
+    "name": "browserless",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "The headless Chrome/Chromium driver on top of Puppeteer. Take screenshots, generate PDFs, extract text and HTML with a production-ready API.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/microlinkhq/browserless",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 86/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-single-file-cli",
+    "name": "single-file-cli",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFile)",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/gildas-lormeau/single-file-cli",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 78/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-linkinator",
+    "name": "linkinator",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Broken link checker that crawls websites and validates links. Find broken links, dead links, and invalid URLs in websites, documentation, and local files. Perfect for SEO audits and CI/CD.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/JustinBeckwith/linkinator",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 85/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-webclaw",
+    "name": "webclaw",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data \u2014 all from Rust. CLI, REST API, and MCP server.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/0xMassi/webclaw",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 86/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-gpt-engineer",
+    "name": "gpt-engineer",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "CLI platform to experiment with codegen. Precursor to: https://lovable.dev",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/AntonOsika/gpt-engineer",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 70/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-gpt-pilot",
+    "name": "gpt-pilot",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "The first real AI developer",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/Pythagora-io/gpt-pilot",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 89/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-tabby",
+    "name": "tabby",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Self-hosted AI coding assistant",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/TabbyML/tabby",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 86/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-wire",
+    "name": "wire",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Compile-time Dependency Injection for Go",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/google/wire",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 75/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-graphql-code-generat",
+    "name": "graphql-code-generator",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins. ",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/dotansimha/graphql-code-generator",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-gqlgen",
+    "name": "gqlgen",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "go generate based graphql server library",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/99designs/gqlgen",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-sourcery",
+    "name": "Sourcery",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Meta-programming for Swift, stop writing boilerplate code.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/krzysztofzablocki/Sourcery",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-nswag",
+    "name": "NSwag",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. ",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/RicoSuter/NSwag",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-orval",
+    "name": "orval",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. \ud83c\udf7a",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/orval-labs/orval",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-rust-bindgen",
+    "name": "rust-bindgen",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Automatically generates Rust FFI bindings to C (and some C++) libraries.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/rust-lang/rust-bindgen",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-openapi-ts",
+    "name": "openapi-ts",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\ud83c\udf00 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/hey-api/openapi-ts",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-zydis",
+    "name": "zydis",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Fast and lightweight x86/x86-64 disassembler and code generation library",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/zyantific/zydis",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-adrenaline",
+    "name": "adrenaline",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Chat with (and visualize) your codebase",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/shobrook/adrenaline",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 69/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-openapi-typescript-c",
+    "name": "openapi-typescript-codegen",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/ferdikoomen/openapi-typescript-codegen",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-inkwell",
+    "name": "inkwell",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "It's a New Kind of Wrapper for Exposing LLVM (Safely)",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/TheDan64/inkwell",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 89/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-cranelift",
+    "name": "cranelift",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Cranelift code generator",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/bytecodealliance/cranelift",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 68/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-moq",
+    "name": "moq",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Interface mocking tool for go generate",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/matryer/moq",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 84/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-ogen",
+    "name": "ogen",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "OpenAPI v3 code generator for go",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/ogen-go/ogen",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 88/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-graphql-zeus",
+    "name": "graphql-zeus",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "GraphQL client and GraphQL code generator with GraphQL autocomplete library generation \u26a1\u26a1\u26a1 for browser,nodejs and react native ( apollo compatible ) ",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/graphql-editor/graphql-zeus",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 85/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "code-generation-gh-kubb",
+    "name": "kubb",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\ud83e\udde1 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/kubb-labs/kubb",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 87/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-browser-use",
+    "name": "browser-use",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/browser-use/browser-use",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-browser",
+    "name": "browser",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Lightpanda: the headless browser designed for AI and automation",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/lightpanda-io/browser",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-skyvern",
+    "name": "skyvern",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Automate browser based workflows with AI",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/Skyvern-AI/skyvern",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-automa",
+    "name": "automa",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "A browser extension for automating your browser by connecting blocks",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/AutomaApp/automa",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 86/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-page-agent",
+    "name": "page-agent",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/alibaba/page-agent",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-web-ui",
+    "name": "web-ui",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\ud83d\udda5\ufe0f Run AI Agent in your browser.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/browser-use/web-ui",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-browser-harness",
+    "name": "browser-harness",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/browser-use/browser-harness",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-nanobrowser",
+    "name": "nanobrowser",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/nanobrowser/nanobrowser",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 80/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-genericagent",
+    "name": "GenericAgent",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/lsdefine/GenericAgent",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-steel-browser",
+    "name": "steel-browser",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\ud83d\udd25 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/steel-dev/steel-browser",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-llm-scraper",
+    "name": "llm-scraper",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Turn any webpage into structured data using LLMs",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/mishushakov/llm-scraper",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 89/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-mcp",
+    "name": "mcp",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/BrowserMCP/mcp",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 70/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-camofox-browser",
+    "name": "camofox-browser",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Stealth headless browser for AI agents \u2014 bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/jo-inc/camofox-browser",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-eko",
+    "name": "eko",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/FellouAI/eko",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 86/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-workflow-use",
+    "name": "workflow-use",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\u2699\ufe0f Create and run workflows (RPA 2.0)",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/browser-use/workflow-use",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-pyppeteer",
+    "name": "pyppeteer",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Headless chrome/chromium automation library (unofficial port of puppeteer)",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/miyakogi/pyppeteer",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 70/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-paperless-ngx",
+    "name": "paperless-ngx",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/paperless-ngx/paperless-ngx",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-easyocr",
+    "name": "EasyOCR",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/JaidedAI/EasyOCR",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 81/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-doctr",
+    "name": "doctr",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/mindee/doctr",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-swiftocr",
+    "name": "SwiftOCR",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Fast and simple OCR library written in Swift",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/NMAC427/SwiftOCR",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 70/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-android-ocr",
+    "name": "android-ocr",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Experimental optical character recognition app",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/rmtheis/android-ocr",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 80/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-tesserocr",
+    "name": "tesserocr",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "A Python wrapper for the tesseract-ocr API",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/sirfz/tesserocr",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 86/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-nlp-models-tensorflo",
+    "name": "NLP-Models-Tensorflow",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Gathers machine learning and Tensorflow deep learning models for NLP problems, 1.13 < Tensorflow < 2.0",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/mesolitica/NLP-Models-Tensorflow",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 70/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-jarvis",
+    "name": "J.A.R.V.I.S",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Recognition, Dynamic News Reporting at any time with API integration, Todo list gen",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/GauravSingh9356/J.A.R.V.I.S",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 79/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-kraken",
+    "name": "kraken",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "OCR engine for all the languages",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/mittagessen/kraken",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 87/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-tesseract4android",
+    "name": "Tesseract4Android",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Fork of tess-two rewritten from scratch to support latest version of Tesseract OCR.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/adaptech-cz/Tesseract4Android",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 81/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-octopii",
+    "name": "Octopii",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "An AI-powered Personal Identifiable Information (PII) scanner.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/redhuntlabs/Octopii",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 62/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-parseq",
+    "name": "parseq",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Scene Text Recognition with Permuted Autoregressive Sequence Models (ECCV 2022)",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/baudm/parseq",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 65/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-mozart",
+    "name": "Mozart",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/aashrafh/Mozart",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 64/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-react-native-tessera",
+    "name": "react-native-tesseract-ocr",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Tesseract OCR wrapper for React Native",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/jonathanpalma/react-native-tesseract-ocr",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 75/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-signatureextractor",
+    "name": "signature_extractor",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "A super lightweight image processing algorithm for detection and extraction of overlapped handwritten signatures on scanned documents using OpenCV and scikit-image.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/ahmetozlu/signature_extractor",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 64/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-image2text",
+    "name": "image2text",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": ":clipboard: Python wrapper to grab text from images and save as text files using Tesseract Engine",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/prabhakar267/image2text",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 66/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-computer-vision-guid",
+    "name": "computer-vision-guide",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": ":book:  This guide is to help you understand the basics of the computerized image and develop computer vision projects with OpenCV. Includes Python, Java, JavaScript, C# and C++ examples.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/mesutpiskin/computer-vision-guide",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 91/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-receipt-scanner",
+    "name": "receipt-scanner",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Receipt scanner extracts information from your PDF or image receipts - built in NodeJS",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/danschultzer/receipt-scanner",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 59/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-os-bot-color",
+    "name": "OS-Bot-COLOR",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "A lightweight desktop client & toolkit for writing, controlling and monitoring color-based automation scripts.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/dustyfence/OS-Bot-COLOR",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 51/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  },
+  {
+    "id": "ocr-gh-ocr-table",
+    "name": "ocr-table",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Extract tables from scanned image PDFs using Optical Character Recognition.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/cseas/ocr-table",
+        "evaluator": "gaiabot",
+        "date": "2026-05-29",
+        "notes": "Auto-discovered from github. Evidence score: 59/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-05-29",
+    "updatedAt": "2026-05-29",
+    "version": "0.1.0"
+  }
+]
