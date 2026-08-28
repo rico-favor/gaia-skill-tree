@@ -1,0 +1,1328 @@
+[
+  {
+    "id": "web-scrape-gh-firecrawl",
+    "name": "firecrawl",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/firecrawl/firecrawl",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-scrapling",
+    "name": "Scrapling",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\ud83d\udd77\ufe0f An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/D4Vinci/Scrapling",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-scrapy",
+    "name": "scrapy",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/scrapy/scrapy",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-changedetectionio",
+    "name": "changedetection.io",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/dgtlmoon/changedetection.io",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-ai-website-cloner-te",
+    "name": "ai-website-cloner-template",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Clone any website with one command using AI coding agents",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/JCodesMore/ai-website-cloner-template",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-cloakbrowser",
+    "name": "CloakBrowser",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/CloakHQ/CloakBrowser",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-jobsapplieraiagen",
+    "name": "Jobs_Applier_AI_Agent_AIHawk",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Open source AI job application bot in Python: browser automation and web scraping to read job postings, then auto-apply with a tailored resume and cover letter for each posting.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-scrapegraph-ai",
+    "name": "Scrapegraph-ai",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Python scraper based on AI",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-crawlee",
+    "name": "crawlee",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Crawlee\u2014A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/apify/crawlee",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-douyintiktokdownlo",
+    "name": "Douyin_TikTok_Download_API",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\ud83d\ude80\u300cDouyin_TikTok_Download_API\u300d\u662f\u4e00\u4e2a\u5f00\u7bb1\u5373\u7528\u7684\u9ad8\u6027\u80fd\u5f02\u6b65\u6296\u97f3\u3001\u5feb\u624b\u3001TikTok\u3001Bilibili\u6570\u636e\u722c\u53d6\u5de5\u5177\uff0c\u652f\u6301API\u8c03\u7528\uff0c\u5728\u7ebf\u6279\u91cf\u89e3\u6790\u53ca\u4e0b\u8f7d\u3002",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 72/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-maxun",
+    "name": "maxun",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\ud83d\udd25 The open-source no-code platform for web scraping, crawling, search and AI data extraction \u2022 Turn websites into structured APIs in minutes \ud83d\udd25 ",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/getmaxun/maxun",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-surfsense",
+    "name": "SurfSense",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/MODSetter/SurfSense",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-skillseekers",
+    "name": "Skill_Seekers",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/yusufkaraaslan/Skill_Seekers",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-seleniumbase",
+    "name": "SeleniumBase",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "\ud83d\udcca APIs for web automation, testing, and bypassing bot-detection.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/seleniumbase/SeleniumBase",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-jsoup",
+    "name": "jsoup",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/jhy/jsoup",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-pinchtab",
+    "name": "pinchtab",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/pinchtab/pinchtab",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-crawlee-python",
+    "name": "crawlee-python",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Crawlee\u2014A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/apify/crawlee-python",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-camofox-browser",
+    "name": "camofox-browser",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Stealth headless browser for AI agents \u2014 bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/jo-inc/camofox-browser",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-helium",
+    "name": "helium",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Lighter web automation with Python",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/mherrmann/helium",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "web-scrape-gh-awesome-web-scraping",
+    "name": "awesome-web-scraping",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "List of libraries, tools and APIs for web scraping and data processing.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/lorien/awesome-web-scraping",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 100/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-airflow",
+    "name": "airflow",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/apache/airflow",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-mlops-zoomcamp",
+    "name": "mlops-zoomcamp",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Free MLOps course from DataTalks.Club. Register here \ud83d\udc47\ud83c\udffc to get notified about the next cohort",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/DataTalksClub/mlops-zoomcamp",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 80/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-dolphinscheduler",
+    "name": "dolphinscheduler",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/apache/dolphinscheduler",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-pocketflow",
+    "name": "PocketFlow",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/The-Pocket/PocketFlow",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 89/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-maestro",
+    "name": "maestro",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Maestro: Netflix\u2019s Workflow Orchestrator",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/Netflix/maestro",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 89/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-dagu",
+    "name": "dagu",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One b",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/dagucloud/dagu",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 90/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-faros",
+    "name": "FAROS",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "A blueprint-driven AutoResearch runtime for orchestrating AI research workflows from idea generation and experiments to paper writing and peer review.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/OpenNSWM-Lab/FAROS",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 80/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-awesome-argo",
+    "name": "awesome-argo",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "A curated list of awesome projects and resources related to Argo (a CNCF graduated project)",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/akuity/awesome-argo",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 98/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-openrath",
+    "name": "OpenRath",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "An open-source, PyTorch-like runtime for dynamic multi-agent and multi-session workflows.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/Rath-Team/OpenRath",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 84/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-finsight-ai",
+    "name": "FinSight-AI",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "AI equity research agent with resilient workflows, evidence-grounded RAG, versioned reports, and automated quality evaluation.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/juanjuandog/FinSight-AI",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 84/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-maestro-flow",
+    "name": "maestro-flow",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Intent-driven workflow orchestration for multi-agent AI development \u2014 adaptive lifecycle engine, self-reinforcing knowledge graph, and visual dashboard for Claude Code, Gemini, Codex & more",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/catlog22/maestro-flow",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 71/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-pi-dynamic-workflows",
+    "name": "pi-dynamic-workflows",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Claude Code\u2013style dynamic workflows for Pi: code-mode subagents with real model routing, journaled resume, git-worktree isolation, cost accounting, an interactive /workflows TUI, an /ultracode standin",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/QuintinShaw/pi-dynamic-workflows",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 82/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-agents",
+    "name": "agents",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "AI agent tooling for data engineering workflows.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/astronomer/agents",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 81/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-polaris",
+    "name": "polaris",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Polaris: High performance workflow orchestrator for Golang",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/harshadmanglani/polaris",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 54/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-awesome-kubeflow",
+    "name": "awesome-kubeflow",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "A curated list of awesome projects and resources related to Kubeflow (a CNCF incubating project) ",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/terrytangyuan/awesome-kubeflow",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 82/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-zetaforgedev",
+    "name": "zetaforgedev",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Open source AI platform for rapid development of advanced AI and AGI pipelines.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/zetane/zetaforgedev",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 56/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-makerai",
+    "name": "MakerAi",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "The AI Operating System for Delphi. 100% native framework with RAG 2.0, autonomous agents, MCP protocol, and universal LLM connector. Supports OpenAI, Claude, Gemini, Ollama, and more. Delphi 10.4+ (l",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/gustavoeenriquez/MakerAi",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 78/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-zigflow",
+    "name": "zigflow",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Define durable workflows in YAML, powered by Temporal",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/zigflow/zigflow",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 76/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-jai-workflow",
+    "name": "jai-workflow",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Build programmatically custom agentic workflows, AI Agents, RAG systems for java",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/czelabueno/jai-workflow",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 54/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-codex-model-routing-",
+    "name": "codex-model-routing-team",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Route complex Codex tasks to model-specific background workers with bounded concurrency and lead-agent verification.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/zjp1997720/codex-model-routing-team",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 83/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-claude-code-workflow",
+    "name": "Claude-Code-Workflow",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": " JSON-driven multi-agent  cadence-team development framework with   intelligent CLI orchestration (Gemini/Qwen/Codex),   context-first architecture, and automated workflow   execution",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/catlog22/Claude-Code-Workflow",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 95/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-dispatch",
+    "name": "dispatch",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "A Claude Code skill that 10x's your effective context window by dispatching tasks to background AI workers.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/bassimeledath/dispatch",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 60/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-safe-agentic-workflo",
+    "name": "safe-agentic-workflow",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "SAW \u2014 SAFe Agentic Workflow AI Agent Harness for Multi-Agent Team Workflows Built on SAFe methodology (Scaled Agile Framework), adapted for AI agent teams (Now With AI-DLC!) Works for any team with re",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/bybren-llc/safe-agentic-workflow",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 80/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-agentic-os",
+    "name": "agentic-os",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Agentic OS: Multi-agent orchestration platform for opencode, Hermes & Gemini CLI. Skills hub, scheduler, cost analytics, memory & backup.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/modimihir07/agentic-os",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 77/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-ergo",
+    "name": "ergo",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Low-code task engine built with Rust and Svelte",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/dimfeld/ergo",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 53/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-plan-cascade",
+    "name": "plan-cascade",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "AI-powered cascading development framework. Decompose complex projects into parallel executable tasks with auto-generated PRDs, design docs, and multi-agent collaboration (Claude Code, Codex, Aider).",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/Taoidle/plan-cascade",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 72/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-pi-task",
+    "name": "pi-task",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Deterministic spec-orchestration for local LLMs in the pi coding agent \u2014 drives prompts through refine\u2192research\u2192grill\u2192compose\u2192critique, with bundled web/docs/fetch worker tools.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/mjasnikovs/pi-task",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 69/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-wallfacer",
+    "name": "wallfacer",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Chat, specs, tasks, and code. An autonomous engineering platform. Full autonomy when you trust it. Full control when you don't.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/changkun/wallfacer",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 80/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-agentrelay",
+    "name": "AgentRelay",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Verifiable microtask protocol for AI agent collaboration. Task lifecycle, validation engine, reputation system.",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/mnemox-ai/AgentRelay",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 62/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-coordinated-agent-te",
+    "name": "coordinated-agent-team",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Coordinated Agent Team is a prompt-driven multi-agent system for autonomous software delivery. It defines clear agent roles, a deterministic workflow, strict I/O contracts, and artifact-based coordina",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/q3ok/coordinated-agent-team",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 59/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  },
+  {
+    "id": "plan-decompose-gh-bascomtask",
+    "name": "bascomtask",
+    "type": "basic",
+    "level": "1\u2605",
+    "rarity": "common",
+    "description": "Lightweight parallel Java tasks",
+    "prerequisites": [],
+    "derivatives": [],
+    "conditions": "",
+    "evidence": [
+      {
+        "class": "B",
+        "source": "https://github.com/eBay/bascomtask",
+        "evaluator": "gaiabot",
+        "date": "2026-08-28",
+        "notes": "Auto-discovered from github. Evidence score: 50/100.",
+        "source_type": "github"
+      }
+    ],
+    "knownAgents": [],
+    "status": "provisional",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "version": "0.1.0"
+  }
+]
